@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+/* Alumni Directory Sectionn CSS */
+.arti{
+  background: linear-gradient(192deg,rgb(213, 63, 239),rgb(124, 26, 216),rgb(146, 45, 247));
+}
+.arti:hover{
+  color: white;
+}
+
+:root{
+--hero-bg: #213f90;
+}
+
+
+.hero {
+background: var(--hero-bg);
+}
+
+
+.card-shadow {
+box-shadow: 0 4px 0 rgba(0,0,0,0.06), 0 1px 0 rgba(0,0,0,0.03);
+}
